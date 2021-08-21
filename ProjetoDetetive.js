@@ -31,7 +31,7 @@ while (true){
   }
     g = prompt("Devia para a vítima? [S/N]\n");
     if (g == s){
-        console.log("Beleza. Mais uma pergunta.")
+        console.log("Beleza. Só mais uma pergunta.")
         soma ++;
   }     else {
         console.log("Hmmm. Entendi!")  
