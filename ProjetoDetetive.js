@@ -34,7 +34,7 @@ while (true){
         console.log("Beleza. Só mais uma pergunta.")
         soma ++;
   }     else {
-        console.log("Hmmm. Entendi!")  
+        console.log("Hmmm. Entendi! Só mais uma pergunta.")  
   }
     h = prompt("Já trabalhou com a vítima? [S/N]\n");
     if (h == s){
